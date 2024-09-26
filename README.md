@@ -2,6 +2,8 @@
 
 Pentru descărcare accesați: https://github.com/GNS3/gns3-gui/releases
 
+
+
 # Imagini pentru GNS3
 
 <hr>
